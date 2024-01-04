@@ -10,3 +10,5 @@ Guillaume Dechambre
 -  lda model trained:       lda_model_used + lda_model_used.expElogbeta.npy + lda_model_used.id2word + lda_model_used.state
 
 **Script**:                 UDA_FinalProject_Dechambre.ipynb
+
+Happy New Year!
