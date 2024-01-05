@@ -10,7 +10,7 @@ Guillaume Dechambre
 -  lda model trained:       lda_model_used + lda_model_used.expElogbeta.npy + lda_model_used.id2word + lda_model_used.state
 -  LDAVIS MDS view of LDA:  ldavis_mds_6_topics.html
 
-**Script**:                 UDA_FinalProject_Dechambre.ipynb
+**Jupyter Notebook**:       UDA_FinalProject_Dechambre.ipynb
 
 **Instructions for Jupyter Notebook**
 Please run sequentially:
